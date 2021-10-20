@@ -10,9 +10,9 @@ function App() {
     <img src={imageIn} alt="imageInSrc" width={320}  height={240}/>
     <img src="/imageInPublic.jpg" alt="imageInPublic" width={320}  height={240}/>
   </div>
-  <video width={320} height={340} controls>
-  <source src="myVideo.mp4" type="video/mp4" />
-</video>
+  <iframe width={560} height={415} src="https://www.youtube.com/embed/BHwNzSQ6Yoc" controls>
+    
+  </iframe>
 
 </div>
 
