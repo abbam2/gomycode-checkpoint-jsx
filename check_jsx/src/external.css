@@ -1,0 +1,10 @@
+
+.mid{
+    display: flex;
+    justify-content:center;
+    }
+    
+    .title-red{
+    color: red;  
+    text-align: center;
+    }
